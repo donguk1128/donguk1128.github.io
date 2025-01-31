@@ -25,5 +25,5 @@ package-lock.json
 # Misc
 #_sass/vendors
 #assets/js/dist
-
+*node_modules
 *.DS_Store
